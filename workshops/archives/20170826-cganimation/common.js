@@ -32,7 +32,7 @@ function getRecords() {
 }
 
 function animate(record, iterations, width, element) {
-  element.style.backgroundImage = `url(.${record.image})`;
+  element.style.backgroundImage = `url(${record.image})`;
 
   const keyframes = [
     {
