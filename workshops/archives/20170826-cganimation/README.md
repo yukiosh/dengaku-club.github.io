@@ -5,7 +5,7 @@ CG アニメーションを作るワークショップを 2017 年 8 月 26 日�
 本アーカイブは、ワークショップで制作していただいた作品集となっております。以下のリンクからご覧になれます。
 なお、本サイトは PC 上のウェブブラウザ [Firefox](https://www.mozilla.org/) などを想定しています。
 
-* [全作品空間](whole.html)
+* [全作品空間](whole.html) (初めて表示するアニメーションは読み込みに少し時間がかかる場合がございますので、しばらく見てみてください)
 * [一つ一つ作品を確認する](seq.html)
 
 ## 当日の流れ
@@ -32,7 +32,7 @@ In that day, 25 elementaly scholl students came to here, creating the animation 
 This archive is thier works at the workshop. You can see from link below.
 Also, this site premises to see with modern Web browser such [Firefox](https://www.mozilla.org/).
 
-* [Whole works space](whole.html)
+* [Whole works space](whole.html) (It may take some time to load the animation image which display, so please see for a while.)
 * [Look the works one by one](seq.html)
 
 ## Flow on that day
