@@ -1,6 +1,6 @@
 # CG アニメーションワークショップアーカイブ 2017 年 8 月 26 日 (English is after Japanese)
 
-CG アニメーションを作るワークショップを 2017 年 8 月 26 日に開催しました。
+CG アニメーションを作るワークショップを 2017 年 8 月 26 日、[北とぴあ](http://www.hokutopia.jp/)にて開催しました。
 当日は２５人の小学生の参加者がお越しになり、思い思いのアニメーションを制作しました。
 本アーカイブは、ワークショップで制作していただいた作品集となっております。以下のリンクからご覧になれます。
 なお、本サイトは PC 上のウェブブラウザ [Firefox](https://www.mozilla.org/) などを想定しています。
@@ -27,7 +27,7 @@ Created by faisalovers from the Noun Project
 https://thenounproject.com/muhammadfaisal40/collection/arrow/?oq=arrow&cidx=1&i=938301
 
 # CG Animation workshop archive on 26th Aug 2017
-We held a workshop which create animation on 26th Aug 2017.
+We held a workshop which create animation on 26th Aug 2017 at [Hokutopia](http://www.hokutopia.jp/).
 In that day, 25 elementaly scholl students came to here, creating the animation by own distinct thinking.
 This archive is thier works at the workshop. You can see from link below.
 Also, this site premises to see with modern Web browser such [Firefox](https://www.mozilla.org/).
@@ -39,12 +39,12 @@ Also, this site premises to see with modern Web browser such [Firefox](https://w
 We held the workshop along following flow.
 
 ### 1. What is animation?
-Explained how animation works, the principle of animation which we are seeing commonly.
+Explained how animation works, the principle of animation which we see commonly.
 ### 2. Explained animation tool which use.
 We used [anitize.js](https://github.com/dengaku-club/anitize.js), [aspace.js](https://github.com/dengaku-club/aspace.js) and [animium.js](https://github.com/dengaku-club/animium.js) that Dengaku-club developed for this workshop.
-[Shundroid](https://github.com/shundroid/) who was mainly developping gave explanation about the tools while making samples. Thanks!!
+[Shundroid](https://github.com/shundroid/), who is the principal developer, explained about the tools while making and showing samples. Thanks!!
 ### 3. Animation creation
-Hokutopia has a facility named "Dome hall" where was originaly planetarium. Hokutopia has a facility named "Dome hall" where was originaly planetarium. Created animations along the theme which "Animation which want to draw in night sky" because we project the animation on there.
+Hokutopia has a facility named "Dome hall" used as a planetarium in the past. In that unique atmosphere, the session ended with the projection of all animations created by kids along the theme "Views of the Night Sky," reproducing stars, planets, fireworks and in a dark sky.
 Also, created the animations on mainly the tablet PC.
 ### 4. Projected in Dome hall
 Projected the created animations in Dome hall. We felt other different sense which we can't get on small dislay by tablet pc by projected in such big space.
